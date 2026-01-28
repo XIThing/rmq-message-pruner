@@ -13,7 +13,7 @@ authors = [{ name = "Lars de Ridder", email = "lars@xithing.io" }]
 dependencies = ["pika>=1.3"]
 
 [project.urls]
-Homepage = "https://example.com"
+Homepage = "https://github.com/larsderidder/rmq-message-pruner"
 
 [project.scripts]
 rmq-message-pruner = "rmq_message_pruner.cli:main"
